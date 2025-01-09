@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Welcome%20to%20my%20profile)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryingtoilet&theme=react&show_icons=true)
 
