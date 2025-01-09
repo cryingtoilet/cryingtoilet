@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @cryingtoilet
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me... you can't.
-- 😄 Pronouns: nothing
-- ⚡ Fun fact: i do nothing
-
-<!---
-cryingtoilet/cryingtoilet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryingtoilet)](https://github.com/anuraghazra/github-readme-stats)
